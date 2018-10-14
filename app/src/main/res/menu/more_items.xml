@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_list"
+            android:icon="@drawable/ic_list"
+            android:title="List of Product"/>
+        <item android:id="@+id/nav_news"
+            android:icon="@drawable/ic_news"
+            android:title="News"/>
+        <item android:id="@+id/nav_capture"
+            android:icon="@drawable/ic_photo"
+            android:title="Camera"/>
+        <item android:id="@+id/nav_gps"
+            android:icon="@drawable/ic_gps"
+            android:title="GPS"/>
+        <item android:id="@+id/nav_add"
+            android:icon="@drawable/ic_add"
+            android:title="Add Product"/>
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item android:id="@+id/nav_share"
+                android:icon="@drawable/ic_share"
+                android:title="Share"/>
+            <item android:id="@+id/nav_send"
+                android:icon="@drawable/ic_send_black_24dp"
+                android:title="Send"/>
+        </menu>
+    </item>
+
+</menu>

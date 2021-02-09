@@ -2,8 +2,8 @@
 # This is an android app for tackling environmental problems in the country with 3 R (Recycle, Reuse, Reproduce/Recollection)
 
 ## Team
-**Team Leader/Programmer** Trần Võ Thành (Thanh Vo Tran)
-**Designer/Environmentalist** Như Quỳnh Hoàng Thị 
+**Team Leader/Programmer** Trần Võ Thành (Thanh Vo Tran),
+**Designer/Environmentalist** Như Quỳnh Hoàng Thị,
 **Programmer** Hoai Phat 
 
 

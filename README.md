@@ -9,3 +9,7 @@
 
 ## Please click on link below for more details
 https://devpost.com/software/green-elf 
+
+## Related posts
+https://twitter.com/edenyay/status/1051434960622563330?s=20
+https://laptrinhx.com/unesco-hackathon-vietnam-2018-wrap-up-2805537091/
